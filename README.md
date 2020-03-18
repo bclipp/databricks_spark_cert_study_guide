@@ -28,3 +28,25 @@
 ### Datasets
 
 [Data from the Defintive Guide](https://github.com/databricks/Spark-The-Definitive-Guide/tree/master/data)
+
+### Labs
+
+#### Dataframes
+
+* Adding, renaming, Removing Columns
+
+* Concatenating , Appending, Filtering, Unique Sorting Rows
+
+* select , selectExpr and Limit
+
+* Working with Spark Types and casting
+
+* Regular Expressions 
+
+* Filtering, Unique Sorting rows
+
+* Random Samples and Samples
+
+* Repartition and Coalesce 
+
+* Complex Types
