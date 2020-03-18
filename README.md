@@ -21,6 +21,8 @@
 
 [Older Exam notes](https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Developer#a)
 
+[architecture](https://www.edureka.co/blog/spark-architecture/)
+
 ### Running Spark
 
 [Free Trial](https://databricks.com/try-databricks)
