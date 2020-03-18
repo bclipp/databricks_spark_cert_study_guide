@@ -23,6 +23,8 @@
 
 [architecture](https://www.edureka.co/blog/spark-architecture/)
 
+[rdd](https://data-flair.training/blogs/spark-rdd-tutorial/)
+
 ### Running Spark
 
 [Free Trial](https://databricks.com/try-databricks)
