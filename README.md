@@ -2,7 +2,7 @@
 
 [Databricks Certifications](https://academy.databricks.com/category/certifications)
 
-###  Useful
+###  Links
 
 ##### SCALA
 
