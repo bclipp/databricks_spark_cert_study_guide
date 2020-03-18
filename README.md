@@ -2,7 +2,10 @@
 
 [Databricks Certifications](https://academy.databricks.com/category/certifications)
 
-### General Knowledge
+###  Useful
+
+[Basic Scala](https://www.scala-exercises.org/scala_tutorial/terms_and_types)
+
 [fundamentals](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
 
 [Spark The Definitive Guide CH:1 -19](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219)
