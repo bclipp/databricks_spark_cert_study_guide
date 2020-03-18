@@ -33,6 +33,8 @@
 
 [joinin and shuffle](https://www.linkedin.com/pulse/spark-sql-3-common-joins-explained-ram-ghadiyaram/)
 
+[catalyst, logical plan & physical plan](https://medium.com/@Shkha_24/catalyst-optimizer-the-power-of-spark-sql-cad8af46097f)
+
 ### Running Spark
 
 [Free Trial](https://databricks.com/try-databricks)
@@ -103,4 +105,14 @@
   * rdd
   
   * pair rdd
+  
+  * spark SQL hive metastore, catalog , managed and unmanaged tables, view, databases
+  
+  * caching 
+  
+  * checkpoint
+  
+  * testing with spark
+  
+  * writing a spark application
   
