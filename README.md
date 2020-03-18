@@ -19,6 +19,8 @@
 
 [RDD Guide](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
 
+[Older Exam notes](https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Developer#a)
+
 ### Running Spark
 
 [Free Trial](https://databricks.com/try-databricks)
