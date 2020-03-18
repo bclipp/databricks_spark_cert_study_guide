@@ -25,6 +25,14 @@
 
 [rdd](https://data-flair.training/blogs/spark-rdd-tutorial/)
 
+[shuffles and spilling](https://xuechendi.github.io/2019/04/15/Spark-Shuffle-and-Spill-Explained)
+
+[rdd and shuffle](https://spark.apache.org/docs/latest/rdd-programming-guide.html#shuffle-operations)
+
+[shuffle](http://hydronitrogen.com/apache-spark-shuffles-explained-in-depth.html)
+
+[joinin and shuffle](https://www.linkedin.com/pulse/spark-sql-3-common-joins-explained-ram-ghadiyaram/)
+
 ### Running Spark
 
 [Free Trial](https://databricks.com/try-databricks)
@@ -39,7 +47,7 @@
 
 * Adding, renaming, Removing Columns
 
-* Concatenating , Appending, Filtering, Unique Sorting Rows
+* Concatenating , Appending, Filtering, droping, Unique Sorting Rows
 
 * select , selectExpr and Limit
 
@@ -55,7 +63,7 @@
 
 * strings, dates, timestamps
 
-* null
+* working with null
 
 * Spark SQL
 
@@ -73,3 +81,26 @@
   * Scala
   * Python
   * cross language
+  
+  * group by
+  
+  * agg in select
+  
+  * window
+  
+  * grouping sets: rollup, cubes
+  
+  * UDAF
+  
+  * JOINs
+  
+  * read and writing files
+  
+  * reading and writing JDBC
+  
+  * datasets
+  
+  * rdd
+  
+  * pair rdd
+  
