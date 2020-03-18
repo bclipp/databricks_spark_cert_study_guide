@@ -39,7 +39,7 @@
 
 * select , selectExpr and Limit
 
-* Working with Spark Types and casting
+* Working with reserved characters, Spark Types and casting
 
 * Regular Expressions 
 
@@ -49,4 +49,23 @@
 
 * Repartition and Coalesce 
 
+* strings, dates, timestamps
+
+* null
+
+* Spark SQL
+
 * Complex Types
+   * struct
+   * split
+   * size
+   * array_contains
+   * explode
+   * Map
+   * JSON
+   
+* UDF
+  * SQL
+  * Scala
+  * Python
+  * cross language
