@@ -4,7 +4,13 @@
 
 ###  Useful
 
+##### SCALA
+
 [Basic Scala](https://www.scala-exercises.org/scala_tutorial/terms_and_types)
+
+#### SPARK
+
+[spark session](https://databricks.com/blog/2016/08/15/how-to-use-sparksession-in-apache-spark-2-0.html)
 
 [fundamentals](https://www.youtube.com/watch?v=7ooZ4S7Ay6Y)
 
