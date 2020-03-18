@@ -24,3 +24,7 @@
 ### Running Spark
 
 [Free Trial](https://databricks.com/try-databricks)
+
+### Datasets
+
+[Data from the Defintive Guide](https://github.com/databricks/Spark-The-Definitive-Guide/tree/master/data)
