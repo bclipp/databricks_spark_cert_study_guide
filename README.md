@@ -12,18 +12,21 @@ https://www.w3schools.com/python/python_intro.asp
 * SQL: https://www.w3schools.com/sql/sql_intro.asp
 
 
-**Spark 3 feature highlights**:
-Adaptive query execution
-https://databricks.com/session_na20/adaptive-query-execution-speeding-up-spark-sql-at-runtime
-Dynamic partition pruning :
-https://databricks.com/session_eu19/dynamic-partition-pruning-in-apache-spark
-ANSI SQL compliance
-Sig python api improvements
-New UI for struct streaming
-40 X speed up on R UDF
-Accelerator aware scheduler
-SQL Ref Documentation
-Kolas
+**Spark 3 feature highlights:**  
+* Adaptive query execution
+    * https://databricks.com/session_na20/adaptive-query-execution-speeding-up-spark-sql-at-runtime  
+    * https://www.youtube.com/watch?v=jlr8_RpAGuU
+* Dynamic partition pruning :
+    * https://databricks.com/session_eu19/dynamic-partition-pruning-in-apache-spark
+    * https://www.youtube.com/watch?v=-86iMCKeYxI
+    * 
+* ANSI SQL compliance: 
+* Sig python api improvements
+* New UI for struct streaming
+* 40 X speed up on R UDF
+* Accelerator aware scheduler
+* SQL Ref Documentation
+* Kolas: https://www.youtube.com/watch?v=Ux1A8O6K2Xg&t=10s
 
 Data:
 https://www.data.gov/open-gov/
@@ -74,6 +77,9 @@ https://www.youtube.com/watch?v=AoVmgzontXo
 https://www.youtube.com/watch?v=rl8dIzTpxrI
 https://www.youtube.com/watch?v=kkOG_aJ9KjQ
 https://www.youtube.com/watch?v=i7l3JQRx7Qw
+https://www.youtube.com/watch?v=HZ00AznWvKc
+https://www.youtube.com/watch?v=qEKfyoOUKb8&t=4s
+https://www.youtube.com/watch?v=f8j5t_xaly4
 A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)
 A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets - Jules Damji
 Apache Spark Core—Deep Dive—Proper Optimization Daniel Tomes Databricks
