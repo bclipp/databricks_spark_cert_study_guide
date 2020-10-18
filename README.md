@@ -96,8 +96,9 @@ https://towardsdatascience.com/my-10-recommendations-after-getting-the-databrick
 
 
 Exercises:
-
-Load CSV, Avro, parquet, Json
+* SQL BASIC (database, tables)
+* Scala & SQL Basics
+* Load CSV, Avro, parquet, Json
 Schema inference
 Manually set schema
 Add some actions around missing data
