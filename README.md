@@ -28,35 +28,35 @@ https://www.w3schools.com/python/python_intro.asp
 * SQL Ref Documentation
 * Kolas: https://www.youtube.com/watch?v=Ux1A8O6K2Xg&t=10s
 
-Data:
-https://www.data.gov/open-gov/
-https://data.richmondgov.com/
-https://data.virginia.gov/
-https://github.com/awesomedata/awesome-public-datasets
-https://www.columnfivemedia.com/100-best-free-data-sources-infographic
+**Data:**
+* https://www.data.gov/open-gov/
+* https://data.richmondgov.com/
+* https://data.virginia.gov/
+* https://github.com/awesomedata/awesome-public-datasets
+* https://www.columnfivemedia.com/100-best-free-data-sources-infographic
 
-Theory:
-Spark Architecture:
+**Theory:**
+* Spark Architecture:
  https://spark.apache.org/docs/latest/cluster-overview.html
 https://www.edureka.co/blog/spark-architecture/
-Job Execution
+* Job Execution
 Quickstart guide: 
 https://spark.apache.org/docs/latest/quick-start.html
-Dataframes:
+* Dataframes:
 https://spark.apache.org/docs/latest/sql-programming-guide.html
-Cluster mode:
+* Cluster mode:
 https://spark.apache.org/docs/latest/cluster-overview.html
-Spark session:
+* Spark session:
 https://databricks.com/blog/2016/08/15/how-to-use-sparksession-in-apache-spark-2-0.html
-Scala http://spark.apache.org/docs/latest/api/scala/org/apache/spark/index.html
-SparkSQL http://spark.apache.org/docs/latest/api/sql/index.html
-Adaptive Query Execution: 
+* Scala http://spark.apache.org/docs/latest/api/scala/org/apache/spark/index.html
+* SparkSQL http://spark.apache.org/docs/latest/api/sql/index.html
+* Adaptive Query Execution: 
 https://databricks.com/blog/2020/05/29/adaptive-query-execution-speeding-up-spark-sql-at-runtime.html
 https://www.youtube.com/watch?v=jzrEc4r90N8
 
-Caching data
-UDF (Python, Scala and SQL)
-Shuffling:
+* Caching data
+* UDF (Python, Scala and SQL)
+* Shuffling:
 https://xuechendi.github.io/2019/04/15/Spark-Shuffle-and-Spill-Explained
 https://spark.apache.org/docs/latest/rdd-programming-guide.html#shuffle-operations
 http://hydronitrogen.com/apache-spark-shuffles-explained-in-depth.html
