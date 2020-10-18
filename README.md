@@ -4,10 +4,13 @@ https://databricks.com/spark/about
 
 In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 1-7 of Learning Spark should also be helpful in preparation.
 
-Python Basics:
+**Languages:**
+* Python Basics:
 https://www.w3schools.com/python/python_intro.asp
-Scala Basics:
+* Scala Basics:
  https://www.scala-exercises.org/scala_tutorial/terms_and_types
+* SQL: https://www.w3schools.com/sql/sql_intro.asp
+
 
 Spark 3 feature highlights:
 Adaptive query execution
