@@ -12,7 +12,7 @@ https://www.w3schools.com/python/python_intro.asp
 * SQL: https://www.w3schools.com/sql/sql_intro.asp
 
 
-Spark 3 feature highlights:
+**Spark 3 feature highlights**:
 Adaptive query execution
 https://databricks.com/session_na20/adaptive-query-execution-speeding-up-spark-sql-at-runtime
 Dynamic partition pruning :
