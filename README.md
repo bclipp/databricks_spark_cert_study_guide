@@ -16,6 +16,7 @@ https://www.w3schools.com/python/python_intro.asp
 * Adaptive query execution
     * https://databricks.com/session_na20/adaptive-query-execution-speeding-up-spark-sql-at-runtime  
     * https://www.youtube.com/watch?v=jlr8_RpAGuU
+    * https://medium.com/agile-lab-engineering/spark-3-0-first-hands-on-approach-with-adaptive-query-execution-part-1-ff987f66b5c0
 * Dynamic partition pruning :
     * https://databricks.com/session_eu19/dynamic-partition-pruning-in-apache-spark
     * https://www.youtube.com/watch?v=-86iMCKeYxI
@@ -73,6 +74,7 @@ https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Develope
 
 
 Videos:
+https://www.youtube.com/watch?v=scM_WQMhB3A
 https://www.youtube.com/watch?v=AoVmgzontXo
 https://www.youtube.com/watch?v=rl8dIzTpxrI
 https://www.youtube.com/watch?v=kkOG_aJ9KjQ
