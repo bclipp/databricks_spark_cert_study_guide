@@ -196,6 +196,9 @@ caching
 partitions
 Repartition and Coalesce
 
+18. Delta table basics
+
+
 
 
 
