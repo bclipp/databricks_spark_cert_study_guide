@@ -11,6 +11,8 @@ https://www.w3schools.com/python/python_intro.asp
  https://www.scala-exercises.org/scala_tutorial/terms_and_types
 * SQL: https://www.w3schools.com/sql/sql_intro.asp , https://www.tutorialspoint.com/sql/sql-databases.htm
 
+**Spark Documentation**
+* https://docs.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax.html
 
 **Spark 3 feature highlights:**  
 * Adaptive query execution
