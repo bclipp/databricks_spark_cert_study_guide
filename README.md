@@ -98,71 +98,109 @@ https://towardsdatascience.com/my-10-recommendations-after-getting-the-databrick
 
 
 Exercises:
+1. SQL DF setup and basics
 * SQL BASIC (database, tables)
-* Scala & SQL Basics
+Collect
+show
+head
+top
+Sampling
+spark SQL hive metastore catalog , managed and unmanaged tables, view,
+tables , views, dataframes, databrase, managed unmanaged tables
+
+2. importing and exporting data
 * Load CSV, Avro, parquet, Json
-Schema inference
-Manually set schema
-Add some actions around missing data
-Load Data from a JDBC source
-Schema inference
-Manually set schema
-Write data to 
+* Schema inference and enforcement
+* Load Data from a JDBC source
+* Write data to 
 Csv
 Json
 Avro
 Parquet
 Json
 Jdbc destination
-Column:
-https://mungingdata.com/apache-spark/column-methods/
 
-Add Columns
-Remove columns
-Rename columns
-Select columns
-Concatenating columns
-Unique
-split
-Sort
-Drop
-Cast
-Converting to spark types
- Rows
+3. SELECT
+* Scala & SQL Basics
+* nested data (array, hash)
+* create nested data
 FIlter/Where
+Complex data types
+Structs
+Arrays
+
+4. Math and stats
+Sum
+Avg
+Min
+Max
+count
+Pivot
+Rollup
+Cube
+
+5. Joining
+
+6. grouping and summarizing
 Agg
 Groupby
 Sum
 Avg
 Min
 Max
-Pivot
-Rollup
-Cube
-UDF agg funct
-Sampling
-Repartitioning and coalesce
-Collect
-Regular expressions
+
+7. inspecting and modifying data
+Unique
+ORDER BY
+split
+Sort
+Drop
+Cast
+Converting to spark types
+
+8. dates and times
 Dates and timestamp
+math datestimes
+deltas
+
+9. mining text
+Regular expressions
+like
+
+10. speeding things up
+
+11. UDF
+
+12. agg UDF
+
+13. working with missing data
+* Add some actions around missing data
 Nulls
 Drop
 Fill
 Replace
-Complex data types
-Structs
-Arrays
-UDF
-Scala
-Sql
-Using scala in python
-Joins
-Types
-spark SQL hive metastore catalog , managed and unmanaged tables, view,
-Repartition and Coalesce
+
+14. Working with colums
+Add Columns
+Remove columns
+Rename columns
+Concatenating columns
+
+15. Koalas
+
+16. SPark app
 Spark app
-Spark sql functions
+
+17. caching and partitions
 caching
-Kolas
+partitions
+Repartition and Coalesce
+
+
+
+
+
+
+
 
 
