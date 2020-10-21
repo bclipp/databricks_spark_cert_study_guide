@@ -100,15 +100,7 @@ https://towardsdatascience.com/my-10-recommendations-after-getting-the-databrick
 
 
 Exercises:
-1. SQL DF setup and basics
-* SQL BASIC (database, tables)
-Collect
-show
-head
-top
-Sampling
-spark SQL hive metastore catalog , managed and unmanaged tables, view,
-tables , views, dataframes, databrase, managed unmanaged tables
+1. Basics [SQL][SCALA][SCALA SQL]
 
 2. importing and exporting data
 * Load CSV, Avro, parquet, Json
