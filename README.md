@@ -9,7 +9,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 https://www.w3schools.com/python/python_intro.asp
 * Scala Basics:
  https://www.scala-exercises.org/scala_tutorial/terms_and_types
-* SQL: https://www.w3schools.com/sql/sql_intro.asp
+* SQL: https://www.w3schools.com/sql/sql_intro.asp , https://www.tutorialspoint.com/sql/sql-databases.htm
 
 
 **Spark 3 feature highlights:**  
