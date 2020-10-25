@@ -1,21 +1,20 @@
 
-**Usefule Links:**
-https://academy.databricks.com/exam/databricks-certified-associate-developer
-https://spark.apache.org/docs/latest/
-https://databricks.com/spark/about
-
-**Reading:** 
+**Usefule Links:**  
+https://academy.databricks.com/exam/databricks-certified-associate-developer  
+https://spark.apache.org/docs/latest/  
+https://databricks.com/spark/about  
+ 
+**Reading:**   
 In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 1-7 of Learning Spark should also be helpful in preparation.
 
-**Languages:**
-* Python Basics:
-https://www.w3schools.com/python/python_intro.asp
-* Scala Basics: (not tested)
- https://www.scala-exercises.org/scala_tutorial/terms_and_types
+**Languages:**  
+
+* Python Basics: https://www.w3schools.com/python/python_intro.asp
+* Scala Basics: (not tested) https://www.scala-exercises.org/scala_tutorial/terms_and_types
 * SQL: https://www.w3schools.com/sql/sql_intro.asp , https://www.tutorialspoint.com/sql/sql-databases.htm
 
 
-**Certification Videos:**
+**Certification Videos:**  
 https://youtu.be/qEKfyoOUKb8
 https://www.youtube.com/watch?v=AoVmgzontXo
 https://www.youtube.com/watch?v=kkOG_aJ9KjQ
