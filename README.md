@@ -36,7 +36,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
     * https://databricks.com/session_eu19/dynamic-partition-pruning-in-apache-spark
     * https://www.youtube.com/watch?v=-86iMCKeYxI
     * 
-* ANSI SQL compliance: 
+* ANSI SQL compliance: https://towardsdatascience.com/spark-3-0-sql-feature-update-ansi-sql-compliance-store-assignment-policy-upgraded-query-94d8d8618ddf
 * Sig python api improvements
 * New UI for struct streaming
 * 40 X speed up on R UDF
