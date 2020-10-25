@@ -1,18 +1,32 @@
+
+**Usefule Links:**
 https://academy.databricks.com/exam/databricks-certified-associate-developer
 https://spark.apache.org/docs/latest/
 https://databricks.com/spark/about
 
+**Reading:** 
 In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 1-7 of Learning Spark should also be helpful in preparation.
 
 **Languages:**
 * Python Basics:
 https://www.w3schools.com/python/python_intro.asp
-* Scala Basics:
+* Scala Basics: (not tested)
  https://www.scala-exercises.org/scala_tutorial/terms_and_types
 * SQL: https://www.w3schools.com/sql/sql_intro.asp , https://www.tutorialspoint.com/sql/sql-databases.htm
 
-**Spark Documentation**
-* https://docs.databricks.com/spark/latest/spark-sql/language-manual/sql-ref-syntax.html
+
+**Certification Videos:**
+https://youtu.be/qEKfyoOUKb8
+https://www.youtube.com/watch?v=AoVmgzontXo
+https://www.youtube.com/watch?v=kkOG_aJ9KjQ
+https://www.youtube.com/watch?v=i7l3JQRx7Qw
+https://www.youtube.com/watch?v=f8j5t_xaly4
+https://www.youtube.com/watch?v=dmL0N3qfSc8
+https://www.youtube.com/watch?v=Ofk7G3GD9jk
+https://www.youtube.com/watch?v=_ArCesElWp8
+https://www.youtube.com/watch?v=YgQgJceojJY
+https://youtu.be/_VwyKCgG3mE
+https://youtu.be/iwQel6JHMpA
 
 **Spark 3 feature highlights:**  
 * Adaptive query execution
@@ -37,6 +51,7 @@ https://www.w3schools.com/python/python_intro.asp
 * https://data.virginia.gov/
 * https://github.com/awesomedata/awesome-public-datasets
 * https://www.columnfivemedia.com/100-best-free-data-sources-infographic
+
 
 **Theory:**
 * Spark Architecture:
@@ -75,21 +90,11 @@ Old exam notes:
 https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Developer#a
 
 
-Videos:
-https://www.youtube.com/watch?v=scM_WQMhB3A
-https://www.youtube.com/watch?v=AoVmgzontXo
-https://www.youtube.com/watch?v=rl8dIzTpxrI
-https://www.youtube.com/watch?v=kkOG_aJ9KjQ
-https://www.youtube.com/watch?v=i7l3JQRx7Qw
-https://www.youtube.com/watch?v=HZ00AznWvKc
-https://www.youtube.com/watch?v=qEKfyoOUKb8&t=4s
-https://www.youtube.com/watch?v=f8j5t_xaly4
-A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)
-A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets - Jules Damji
-Apache Spark Core—Deep Dive—Proper Optimization Daniel Tomes Databricks
-Spark + Parquet In Depth: Spark Summit East talk by: Emily Curtin and Robbie Strickland
-Spark and Object Stores —What You Need to Know (Steve Loughran)
-The Parquet Format and Performance Optimization Opportunities Boudewijn Braams (Databricks)
+None cert  Videos:
+(delta Lake and Koalas) https://www.youtube.com/watch?v=scM_WQMhB3A
+(structed streaming) https://www.youtube.com/watch?v=rl8dIzTpxrI
+(databricks secrets) https://www.youtube.com/watch?v=HZ00AznWvKc
+(parquet in depth) https://www.youtube.com/watch?v=_0Wpwj_gvzg
 
 
 
