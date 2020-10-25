@@ -7,6 +7,11 @@
 **Reading:**   
 In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 1-7 of Learning Spark should also be helpful in preparation.
 
+**Important Documentation**
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/SparkSession.html
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/functions$.html
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/Column.html
+
 **Languages:**  
 
 * Python Basics: https://www.w3schools.com/python/python_intro.asp
