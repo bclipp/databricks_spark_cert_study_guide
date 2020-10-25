@@ -1,8 +1,8 @@
 
 **Usefule Links:**  
-https://academy.databricks.com/exam/databricks-certified-associate-developer  
-https://spark.apache.org/docs/latest/  
-https://databricks.com/spark/about  
+* https://academy.databricks.com/exam/databricks-certified-associate-developer  
+* https://spark.apache.org/docs/latest/  
+* https://databricks.com/spark/about  
  
 **Reading:**   
 In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 1-7 of Learning Spark should also be helpful in preparation.
@@ -15,17 +15,17 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 
 
 **Certification Videos:**  
-https://youtu.be/qEKfyoOUKb8
-https://www.youtube.com/watch?v=AoVmgzontXo
-https://www.youtube.com/watch?v=kkOG_aJ9KjQ
-https://www.youtube.com/watch?v=i7l3JQRx7Qw
-https://www.youtube.com/watch?v=f8j5t_xaly4
-https://www.youtube.com/watch?v=dmL0N3qfSc8
-https://www.youtube.com/watch?v=Ofk7G3GD9jk
-https://www.youtube.com/watch?v=_ArCesElWp8
-https://www.youtube.com/watch?v=YgQgJceojJY
-https://youtu.be/_VwyKCgG3mE
-https://youtu.be/iwQel6JHMpA
+* https://youtu.be/qEKfyoOUKb8
+* https://www.youtube.com/watch?v=AoVmgzontXo
+* https://www.youtube.com/watch?v=kkOG_aJ9KjQ
+* https://www.youtube.com/watch?v=i7l3JQRx7Qw
+* https://www.youtube.com/watch?v=f8j5t_xaly4
+* https://www.youtube.com/watch?v=dmL0N3qfSc8
+* https://www.youtube.com/watch?v=Ofk7G3GD9jk
+* https://www.youtube.com/watch?v=_ArCesElWp8
+* https://www.youtube.com/watch?v=YgQgJceojJY
+* https://youtu.be/_VwyKCgG3mE
+* https://youtu.be/iwQel6JHMpA
 
 **Spark 3 feature highlights:**  
 * Adaptive query execution
