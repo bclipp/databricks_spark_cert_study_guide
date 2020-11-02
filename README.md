@@ -80,6 +80,7 @@ https://www.youtube.com/watch?v=jzrEc4r90N8
 * Caching data
 * UDF (Python, Scala and SQL)
 * Shuffling:
+  * https://sparkbyexamples.com/spark/spark-shuffle-partitions/#:~:text=The%20Spark%20SQL%20shuffle%20is,worker%20nodes%20in%20a%20cluster. 
   * https://xuechendi.github.io/2019/04/15/Spark-Shuffle-and-Spill-Explained
   * https://spark.apache.org/docs/latest/rdd-programming-guide.html#shuffle-operations
   * http://hydronitrogen.com/apache-spark-shuffles-explained-in-depth.html
