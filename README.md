@@ -101,7 +101,7 @@ None cert  Videos:
 
 
 Useful links:
-https://towardsdatascience.com/my-10-recommendations-after-getting-the-databricks-certification-for-apache-spark-53cd3690073
+Old many topics are not covered anymore: https://towardsdatascience.com/my-10-recommendations-after-getting-the-databricks-certification-for-apache-spark-53cd3690073
 
 
 
