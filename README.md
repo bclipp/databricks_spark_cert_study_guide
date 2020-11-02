@@ -76,6 +76,7 @@ https://databricks.com/blog/2016/08/15/how-to-use-sparksession-in-apache-spark-2
 https://databricks.com/blog/2020/05/29/adaptive-query-execution-speeding-up-spark-sql-at-runtime.html
 https://www.youtube.com/watch?v=jzrEc4r90N8
 * Spark DAG: https://data-flair.training/blogs/dag-in-apache-spark/
+* Catalyst, execution plans: https://data-flair.training/blogs/spark-sql-optimization/
 * Caching data
 * UDF (Python, Scala and SQL)
 * Shuffling:
