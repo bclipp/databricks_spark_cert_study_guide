@@ -79,19 +79,17 @@ https://www.youtube.com/watch?v=jzrEc4r90N8
 * Caching data
 * UDF (Python, Scala and SQL)
 * Shuffling:
-https://xuechendi.github.io/2019/04/15/Spark-Shuffle-and-Spill-Explained
-https://spark.apache.org/docs/latest/rdd-programming-guide.html#shuffle-operations
-http://hydronitrogen.com/apache-spark-shuffles-explained-in-depth.html
-https://www.linkedin.com/pulse/spark-sql-3-common-joins-explained-ram-ghadiyaram/
-Cluster: https://spark.apache.org/docs/latest/cluster-overview.html
-Sub app: https://spark.apache.org/docs/latest/submitting-applications.html
-Performance tuning: 
-https://spark.apache.org/docs/latest/sql-performance-tuning.html
-https://spark.apache.org/docs/latest/tuning.html
-Catalyst, logical and physical plan:
-https://medium.com/@Shkha_24/catalyst-optimizer-the-power-of-spark-sql-cad8af46097f
-Old exam notes:
-https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Developer#a
+  * https://xuechendi.github.io/2019/04/15/Spark-Shuffle-and-Spill-Explained
+  * https://spark.apache.org/docs/latest/rdd-programming-guide.html#shuffle-operations
+  * http://hydronitrogen.com/apache-spark-shuffles-explained-in-depth.html
+  * https://www.linkedin.com/pulse/spark-sql-3-common-joins-explained-ram-ghadiyaram/
+* Cluster: https://spark.apache.org/docs/latest/cluster-overview.html
+* Sub app: https://spark.apache.org/docs/latest/submitting-applications.html
+* Performance tuning: 
+  * https://spark.apache.org/docs/latest/sql-performance-tuning.html
+  * https://spark.apache.org/docs/latest/tuning.html
+* Catalyst, logical and physical plan: https://medium.com/@Shkha_24/catalyst-optimizer-the-power-of-spark-sql-cad8af46097f
+* Old exam notes: https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Developer#a
 
 
 None cert  Videos:
