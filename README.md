@@ -93,10 +93,10 @@ https://www.youtube.com/watch?v=jzrEc4r90N8
 
 
 None cert  Videos:
-(delta Lake and Koalas) https://www.youtube.com/watch?v=scM_WQMhB3A
-(structed streaming) https://www.youtube.com/watch?v=rl8dIzTpxrI
-(databricks secrets) https://www.youtube.com/watch?v=HZ00AznWvKc
-(parquet in depth) https://www.youtube.com/watch?v=_0Wpwj_gvzg
+* (delta Lake and Koalas) https://www.youtube.com/watch?v=scM_WQMhB3A
+* (structed streaming) https://www.youtube.com/watch?v=rl8dIzTpxrI
+* (databricks secrets) https://www.youtube.com/watch?v=HZ00AznWvKc
+* (parquet in depth) https://www.youtube.com/watch?v=_0Wpwj_gvzg
 
 
 
