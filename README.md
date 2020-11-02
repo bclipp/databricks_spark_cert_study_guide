@@ -107,6 +107,30 @@ Old many topics are not covered anymore: https://towardsdatascience.com/my-10-re
 
 
 
+
+Spark SQL module, Documentation: 
+* https://spark.apache.org/docs/latest/api/python/pyspark.sql.html
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/index.html
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/DataFrameReader.html
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/DataFrameNaFunctions.html
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/Dataset.html
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/DataFrameWriter.html
+* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/functions$.html
+
+
+1. DataFrames:
+* DataFrame & Column; Columns and expressions, Transformations, Actions, Rows
+* Reader & Writer; Data Sources, DataFrameReader & Writer, Schemas, Performance, caching
+
+2. Transformations:
+* Aggregation;Groupby, Grouped data methods, Aggregate functions, Math functions
+* Datetimes; Dates & Timestamps, Datetime patterns, Datetime functions,
+* Complex Types;String functions, Collection functions
+* Additional Functions; Non-aggregate functions, NaFunctions
+* User-Defined Functions; User-defined functions, Vectorized UDFs, Performance
+
+3. 
+
 Exercises:
 1. Basics [SQL][SCALA][SCALA SQL]
 
