@@ -123,7 +123,7 @@ Spark SQL module, Documentation:
 
 
 1. DataFrames:
-* DataFrame & Column; Columns and expressions, Transformations, Actions, Rows
+* DataFrame & Column; Columns and expressions, Transformations, Actions, Rows, join,selecting, renaming and manipulating columns, filtering, dropping, sorting, and aggregating rows, joining, reading, writing and partitioning DataFrames
 * Reader & Writer; Data Sources, DataFrameReader & Writer, Schemas, Performance, caching
 
 2. Transformations:
@@ -133,7 +133,9 @@ Spark SQL module, Documentation:
 * Additional Functions; Non-aggregate functions, NaFunctions
 * User-Defined Functions; User-defined functions, Vectorized UDFs, Performance
 
-3. 
+3. Spark Optimization
+* Shuffles & Caching
+* Partitioning; Partitions vs cores, Default shuffle partitions, Repartition, Best practices, AQE, Lab
 
 Exercises:
 1. Basics [SQL][SCALA][SCALA SQL]
