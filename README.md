@@ -122,6 +122,8 @@ Spark SQL module, Documentation:
 * https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/functions$.html
 
 
+Exercies:
+
 1. DataFrames:
 * DataFrame & Column; Columns and expressions, Transformations, Actions, Rows, join,selecting, renaming and manipulating columns, filtering, dropping, sorting, and aggregating rows, joining, reading, writing and partitioning DataFrames
 * Reader & Writer; Data Sources, DataFrameReader & Writer, Schemas, Performance, caching
