@@ -59,25 +59,21 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 
 **Theory:**
 * Spark Architecture:
- https://spark.apache.org/docs/latest/cluster-overview.html
-https://www.edureka.co/blog/spark-architecture/
+   * https://spark.apache.org/docs/latest/cluster-overview.html
+   * https://www.edureka.co/blog/spark-architecture/
 * Job Execution
 * Shuffling and joins
    * https://stackoverflow.com/questions/43831387/how-to-avoid-shuffles-while-joining-dataframes-on-unique-keys
    * https://medium.com/@achilleus/https-medium-com-joins-in-apache-spark-part-3-1d40c1e51e1c
-Quickstart guide: 
-https://spark.apache.org/docs/latest/quick-start.html
-* Dataframes:
-https://spark.apache.org/docs/latest/sql-programming-guide.html
-* Cluster mode:
-https://spark.apache.org/docs/latest/cluster-overview.html
-* Spark session:
-https://databricks.com/blog/2016/08/15/how-to-use-sparksession-in-apache-spark-2-0.html
+* Quickstart guide: https://spark.apache.org/docs/latest/quick-start.html
+* Dataframes: https://spark.apache.org/docs/latest/sql-programming-guide.html
+* Cluster mode: https://spark.apache.org/docs/latest/cluster-overview.html
+* Spark session: https://databricks.com/blog/2016/08/15/how-to-use-sparksession-in-apache-spark-2-0.html
 * Scala http://spark.apache.org/docs/latest/api/scala/org/apache/spark/index.html
 * SparkSQL http://spark.apache.org/docs/latest/api/sql/index.html
 * Adaptive Query Execution: 
-https://databricks.com/blog/2020/05/29/adaptive-query-execution-speeding-up-spark-sql-at-runtime.html
-https://www.youtube.com/watch?v=jzrEc4r90N8
+   * https://databricks.com/blog/2020/05/29/adaptive-query-execution-speeding-up-spark-sql-at-runtime.html
+   * https://www.youtube.com/watch?v=jzrEc4r90N8
 * Spark DAG: https://data-flair.training/blogs/dag-in-apache-spark/
 * Catalyst, execution plans: https://data-flair.training/blogs/spark-sql-optimization/
 * Caching data
