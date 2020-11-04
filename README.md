@@ -32,7 +32,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 * https://youtu.be/_VwyKCgG3mE
 * https://youtu.be/iwQel6JHMpA
 
-**Spark 3 feature highlights:**  
+**Spark 3.0 feature highlights:**  
 * Adaptive query execution
     * https://databricks.com/session_na20/adaptive-query-execution-speeding-up-spark-sql-at-runtime  
     * https://www.youtube.com/watch?v=jlr8_RpAGuU
