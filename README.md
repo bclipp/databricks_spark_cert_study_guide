@@ -99,7 +99,8 @@ None cert  Videos:
 * (databricks secrets) https://www.youtube.com/watch?v=HZ00AznWvKc
 * (parquet in depth) https://www.youtube.com/watch?v=_0Wpwj_gvzg
 
-
+Coursera course(ignore ML content):
+https://www.coursera.org/learn/spark-sql
 
 Useful links:
 Old many topics are not covered anymore: https://towardsdatascience.com/my-10-recommendations-after-getting-the-databricks-certification-for-apache-spark-53cd3690073
