@@ -3,6 +3,8 @@
 * https://academy.databricks.com/exam/databricks-certified-associate-developer  
 * https://spark.apache.org/docs/latest/  
 * https://databricks.com/spark/about  
+* https://docs.databricks.com/getting-started/try-databricks.html
+
  
 **Reading:**   
 In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 1-7 of Learning Spark should also be helpful in preparation.
