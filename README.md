@@ -11,9 +11,13 @@
 In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 1-7 of Learning Spark should also be helpful in preparation.
 
 **Important Documentation**
-* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/SparkSession.html
-* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/functions$.html
-* https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/Column.html
+* scala
+  * https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/SparkSession.html
+  * https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/functions$.html
+  * https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/Column.html
+* python
+  * https://spark.apache.org/docs/latest/api/python/index.html
+  * https://spark.apache.org/docs/latest/api/python/pyspark.sql.html
 
 **Languages:**  
 
