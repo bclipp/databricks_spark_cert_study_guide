@@ -4,7 +4,7 @@
 * https://spark.apache.org/docs/latest/  
 
 **Databricks**
-* https://databricks.com/spark/about  
+* (singup for free)[https://databricks.com/try-databricks] 
 * https://docs.databricks.com/getting-started/try-databricks.html
 * https://docs.databricks.com/administration-guide/cloud-configurations/aws/instance-profiles.html
 
