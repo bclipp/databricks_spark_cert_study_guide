@@ -7,7 +7,8 @@
 * (singup for free)[https://databricks.com/try-databricks] 
 * https://docs.databricks.com/getting-started/try-databricks.html
 * (setup cross account access to your aws cloud)[https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html]
-* https://docs.databricks.com/administration-guide/cloud-configurations/aws/instance-profiles.html
+* https://docs.databricks.com/administration-guide/cloud-configurations/aws/instance-profiles.html  or https://docs.databricks.com/administration-guide/account-settings/aws-storage.html
+
 
  
 **Reading:**   
