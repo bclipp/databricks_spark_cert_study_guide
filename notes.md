@@ -14,7 +14,7 @@ dataframe: RDD's + metadata
 
 * In memory and/or on Disk
 
-* can be set for lazy cache
+* can be set for lazy cache: cache partitions as they are used.
 
 * can be serialized or deseralized, handled for you. Ser is smaller but slower.
 
