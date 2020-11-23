@@ -28,6 +28,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 * Scala Basics: https://www.scala-exercises.org/scala_tutorial/terms_and_types
 
 **certification notes**
+ https://github.com/bclipp/databricks_spark_cert_study_guide/blob/master/notes.md
 
 
 **Certification Videos:**  
