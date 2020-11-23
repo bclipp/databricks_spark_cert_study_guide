@@ -6,9 +6,11 @@ Exectuore
 
 slots: unit of parallelism (normally a core) the potential for a task.
 
+rdd
 
+dataframe: RDD's + metadata
 
-Caching:
+**Caching:**
 
 * In memory and/or on Disk
 
