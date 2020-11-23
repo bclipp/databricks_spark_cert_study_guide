@@ -70,6 +70,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 
 
 **Theory:**
+* spark UI: https://www.youtube.com/watch?v=rNpzrkB5KQQ
 * Spark Architecture:
    * https://spark.apache.org/docs/latest/cluster-overview.html
    * https://www.edureka.co/blog/spark-architecture/
