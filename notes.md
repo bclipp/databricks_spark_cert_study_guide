@@ -10,6 +10,13 @@ slots: unit of parallelism (normally a core) the potential for a task.
 
 Caching:
 
+* In memory and/or on Disk
+
+Dataframes: 
+
+Tables
+
+
 
 **Partitioning:**
 
