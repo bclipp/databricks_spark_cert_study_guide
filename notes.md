@@ -54,7 +54,8 @@ Ways to partition data:
 * Shuffle write/read
 * shuffle partition configuration : ```SET spark.sql.shuffle.partitions=10``` set in notebook or clluster config
   * 200 default: after wide shuffle the number of post partitions is set by default to 200
-  
+* **partitions** 
+  should not have 0 , too few or too mich data idea no skew should 
 **UI:**
 
 * example of caching: http://files.training.databricks.com/images/eLearning/ucdavis/inmemorysize.png
