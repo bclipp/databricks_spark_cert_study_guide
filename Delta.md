@@ -1,1 +1,6 @@
 
+Basic Notes:
+
+
+Basic Commands:
+
