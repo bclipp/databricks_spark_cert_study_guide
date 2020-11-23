@@ -61,7 +61,9 @@ Ways to partition data:
 * example of caching: http://files.training.databricks.com/images/eLearning/ucdavis/inmemorysize.png
 
 
-Braodcast Joins:
+**Braodcast Joins:**
+
+* small table is broadcast to all executors: saves the need to shuffle.
 
 
 Plans:
