@@ -39,8 +39,8 @@ Ways to partition data:
 Shuffling:
 
 * moving data from one executor to another
-* wide transformation
-* Narrow transformation: a transforamation that doesn't need to shuffle, or the data can be done in parallel on the partitions as they exist.
+* wide transformation: requires information from other partitions, and requires a shuffle.
+* Narrow transformation: a transforamation that doesn't need to shuffle, or the data can be done in parallel on the partitions without needed sharing data across partitions. 
 * shuffle partition configuration
   * 200 default
 
