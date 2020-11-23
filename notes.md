@@ -12,7 +12,7 @@ dataframe: RDD's + metadata
 
 task
 
-stage: stage is a unit of work within one shuffle group
+stage: stage is a unit of work within one shuffle boundry (group)
 
 **Caching:**
 
