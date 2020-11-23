@@ -42,7 +42,7 @@ Shuffling:
 * wide transformation: requires information from other partitions, and requires a shuffle.
 * Narrow transformation: a transforamation that doesn't need to shuffle, or the data can be done in parallel on the partitions without needed sharing data across partitions. 
 * shuffle partition configuration
-  * 200 default
+  * 200 default: after wide shuffle the number of post partitions is set by default to 200
 
 **UI:**
 
