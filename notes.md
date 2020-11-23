@@ -1,4 +1,4 @@
-Basic components of Architecture:
+**Basic components of Architecture:**
 
 Driver
 
@@ -11,10 +11,16 @@ slots: unit of parallelism (normally a core) the potential for a task.
 Caching:
 
 
-Partitioning:
+**Partitioning:**
 
+Partition: a portion of a dataset, each partition has the potential to be distibuted.
 
-UI:
+Ways to partition data: 
+  A. Larger size, more partitions
+  B. Partitioning on a column,Ie days of the week.
+  C. Configuration of the cluster
+
+**UI:**
 
 
 Braodcast Joins:
