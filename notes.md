@@ -10,9 +10,13 @@ rdd
 
 dataframe: RDD's + metadata
 
-task
+Job: contains stages, total amount of work sent to the cluster
 
-stage: stage is a unit of work within one shuffle boundry (group)
+stage: stage is a unit of work within one shuffle boundry (group), contains tasks
+
+task: smallest unit of work for each executor
+
+
 
 **Caching:**
 
