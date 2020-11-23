@@ -1,3 +1,6 @@
+https://delta.io/
+
+https://docs.databricks.com/delta/quick-start.html
 
 Basic Notes:
 
