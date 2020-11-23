@@ -31,6 +31,8 @@ Ways to partition data:
 
 **UI:**
 
+* example of caching: http://files.training.databricks.com/images/eLearning/ucdavis/inmemorysize.png
+
 
 Braodcast Joins:
 
