@@ -22,8 +22,8 @@ Dataframes:
 
 Tables
 
- Tungsten Optimizer:
-
+ **Tungsten Optimizer:**
+* optimizes how data is stored on disk
 
 
 **Partitioning:**
