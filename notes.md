@@ -10,6 +10,10 @@ rdd
 
 dataframe: RDD's + metadata
 
+task
+
+stage: stage is a unit of work within one shuffle group
+
 **Caching:**
 
 * In memory and/or on Disk
