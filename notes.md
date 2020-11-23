@@ -40,7 +40,7 @@ Shuffling:
 
 * moving data from one executor to another
 * wide transformation
-* Narrow transformation
+* Narrow transformation: a transforamation that doesn't need to shuffle, or the data can be done in parallel on the partitions as they exist.
 * shuffle partition configuration
   * 200 default
 
