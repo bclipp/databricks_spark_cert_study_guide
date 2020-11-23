@@ -35,6 +35,15 @@ Ways to partition data:
   B. Partitioning on a column,Ie days of the week.
   C. Configuration of the cluster
 
+
+Shuffling:
+
+* moving data from one executor to another
+* wide transformation
+* Narrow transformation
+* shuffle partition configuration
+  * 200 default
+
 **UI:**
 
 * example of caching: http://files.training.databricks.com/images/eLearning/ucdavis/inmemorysize.png
