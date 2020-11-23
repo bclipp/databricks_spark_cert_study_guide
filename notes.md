@@ -12,6 +12,8 @@ Caching:
 
 * In memory and/or on Disk
 
+* can be set for lazy cache
+
 Dataframes: 
 
 Tables
