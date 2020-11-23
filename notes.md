@@ -16,6 +16,8 @@ dataframe: RDD's + metadata
 
 * can be set for lazy cache
 
+* can be serialized or deseralized, handled for you. Ser is smaller but slower.
+
 Dataframes: 
 
 Tables
