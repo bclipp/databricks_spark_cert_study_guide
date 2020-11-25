@@ -4,9 +4,9 @@ Driver: Lives on Master Node, declares transformations and actions on RDD. In cl
 
 Executor: Lives on Worker nodes. performs the tasks on the RDD's in a Job.
 
-slots: unit of parallelism (normally a core) the potential for a task.
+slots: unit of parallelism (normally a core) the potential for a task, in cluster mode they exist on the worker nodes only.
 
-rdd: Resiliant distributed dataset. The smallest building block.
+rdd: Resiliant distributed dataset. The smallest building block. 
 
 dataframe: RDD's + metadata
 
