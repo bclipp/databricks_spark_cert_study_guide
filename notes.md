@@ -75,6 +75,8 @@ Ways to partition data:
 
 **Catalyst:**
 
+**Dynamic partition pruning :**
+
 
 **AQE:**
 
