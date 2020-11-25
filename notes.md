@@ -39,7 +39,7 @@ Tables
   
 **Partitioning:**
 
-Partition: a portion of a dataset, each partition has the potential to be distibuted.
+Partition: a portion of a rdd, each partition has the potential to be distibuted.
 
 Ways to partition data: 
   A. Larger size, more partitions
