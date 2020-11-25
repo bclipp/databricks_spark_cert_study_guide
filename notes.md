@@ -83,4 +83,6 @@ Ways to partition data:
 
 **AQE:**
 
+**Catalog**
+
 
