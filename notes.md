@@ -85,4 +85,10 @@ Ways to partition data:
 
 **Catalog**
 
+**Life of a job**
+1. if code is valid convert to logical plan
+2.logical plan is passed to catalyst optimizer.
+3. physical plan is generated
+4. extecusion
+
 
