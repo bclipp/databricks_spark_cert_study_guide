@@ -34,6 +34,7 @@ Tables
 
  **Tungsten Optimizer:**
 * optimizes how data is stored on disk
+* improve the memory and CPU efficiency of the Spark application
   
   
 **Partitioning:**
@@ -74,6 +75,8 @@ Ways to partition data:
 * Logical
 
 **Catalyst:**
+* compiles SparkSQL (Scala, Python, SQL, R) to RDD's
+* optimizes SpaekSQL expression
 
 **Dynamic partition pruning :**
 
