@@ -1,12 +1,12 @@
 **Basic components of Architecture:**
 
-Driver
+Driver: Lives on Master Node, declares transformations and actions on RDD. In cluster mode doesn't process data. 
 
-Exectuore
+Executor: Lives on Worker nodes. performs the tasks on the RDD's in a Job.
 
 slots: unit of parallelism (normally a core) the potential for a task.
 
-rdd
+rdd: Resiliant distributed dataset. The smallest building block.
 
 dataframe: RDD's + metadata
 
