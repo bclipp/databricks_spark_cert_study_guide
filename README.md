@@ -104,6 +104,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
   * https://spark.apache.org/docs/latest/tuning.html
 * Catalyst, logical and physical plan: https://medium.com/@Shkha_24/catalyst-optimizer-the-power-of-spark-sql-cad8af46097f
 * Old exam notes: https://github.com/vivek-bombatkar/Databricks-Apache-Spark-2X-Certified-Developer#a
+* joining dataframes https://kb.databricks.com/data/join-two-dataframes-duplicated-columns.html
 
 
 None cert  Videos:
