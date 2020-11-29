@@ -70,6 +70,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 
 
 **Theory:**
+* tungsten: https://www.youtube.com/watch?v=mRf0GvNDlyc&list=RDCMUCoVVyUViJ3mfaEKVjAJSnVA&index=11
 * partitioning and bucketing:
   * https://www.youtube.com/watch?v=BHFgd-Q2AHM&list=RDCMUCoVVyUViJ3mfaEKVjAJSnVA&index=6
   * https://kb.databricks.com/data/bucketing.html
