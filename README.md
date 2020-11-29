@@ -73,6 +73,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 * partitioning and bucketing:
   * https://www.youtube.com/watch?v=BHFgd-Q2AHM&list=RDCMUCoVVyUViJ3mfaEKVjAJSnVA&index=6
   * https://kb.databricks.com/data/bucketing.html
+  * https://dwgeek.com/spark-sql-bucketing-on-dataframe-examples.html/#:~:text=Bucketing%20is%20an%20optimization%20technique,tables%20participating%20in%20the%20join.
 * spark UI: https://www.youtube.com/watch?v=rNpzrkB5KQQ
 * Spark Architecture:
    * https://spark.apache.org/docs/latest/cluster-overview.html
