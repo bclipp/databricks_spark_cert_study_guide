@@ -70,7 +70,9 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 
 
 **Theory:**
-* partitioning and bucketing: https://www.youtube.com/watch?v=BHFgd-Q2AHM&list=RDCMUCoVVyUViJ3mfaEKVjAJSnVA&index=6
+* partitioning and bucketing:
+  * https://www.youtube.com/watch?v=BHFgd-Q2AHM&list=RDCMUCoVVyUViJ3mfaEKVjAJSnVA&index=6
+  * https://kb.databricks.com/data/bucketing.html
 * spark UI: https://www.youtube.com/watch?v=rNpzrkB5KQQ
 * Spark Architecture:
    * https://spark.apache.org/docs/latest/cluster-overview.html
