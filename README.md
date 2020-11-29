@@ -89,7 +89,9 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
    * https://databricks.com/blog/2020/05/29/adaptive-query-execution-speeding-up-spark-sql-at-runtime.html
    * https://www.youtube.com/watch?v=jzrEc4r90N8
 * Spark DAG: https://data-flair.training/blogs/dag-in-apache-spark/
-* Catalyst, execution plans: https://data-flair.training/blogs/spark-sql-optimization/
+* Catalyst, execution plans: 
+  * https://data-flair.training/blogs/spark-sql-optimization/
+  * https://www.youtube.com/watch?v=iCWAVLkGxdM
 * Caching data
 * UDF (Python, Scala and SQL)
 * Shuffling:
