@@ -75,6 +75,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
    * https://spark.apache.org/docs/latest/cluster-overview.html
    * https://www.edureka.co/blog/spark-architecture/
 * Job Execution
+* Dynamic Resource Allocation: https://www.youtube.com/watch?v=-9bh_Oue9GM
 * Shuffling and joins
    * https://stackoverflow.com/questions/43831387/how-to-avoid-shuffles-while-joining-dataframes-on-unique-keys
    * https://medium.com/@achilleus/https-medium-com-joins-in-apache-spark-part-3-1d40c1e51e1c
