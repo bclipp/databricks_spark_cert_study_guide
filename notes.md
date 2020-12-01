@@ -2,7 +2,7 @@
 
 Driver: Lives on Master Node, declares transformations and actions on RDD. In cluster mode doesn't process data. 
 
-Executor: Lives on Worker nodes. performs the tasks on the RDD's in a Job.
+Executor: Lives on Worker nodes. performs the tasks on the RDD's in a Job. in yarn often more than one per node, in databricks one per node
 
 slots: unit of parallelism (normally a core) the potential for a task, in cluster mode they exist on the worker nodes only.
 
