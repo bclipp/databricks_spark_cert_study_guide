@@ -122,7 +122,7 @@ None cert  Videos:
 * (structed streaming) https://www.youtube.com/watch?v=rl8dIzTpxrI
 * (databricks secrets) https://www.youtube.com/watch?v=HZ00AznWvKc
 * (parquet in depth) https://www.youtube.com/watch?v=_0Wpwj_gvzg
-
+* (troubleshooting spark)https://www.youtube.com/watch?v=s5p15QT0Zj8
 Coursera course(ignore ML content):
 https://www.coursera.org/learn/spark-sql
 
