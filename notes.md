@@ -87,5 +87,5 @@ Ways to partition data:
 
 **SQL EXE PLAN**
 
-
+![execution plan](Spark-SQL-Optimization-2.jpg)
 
