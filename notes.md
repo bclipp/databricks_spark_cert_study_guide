@@ -88,4 +88,8 @@ Ways to partition data:
 **SQL EXE PLAN**
 
 ![execution plan](Spark-SQL-Optimization-2.jpg)
-
+Phases
+1 Analysis- abstract syntax tree, SQL parser
+2 logical optimizaiton plan: rule based optimizations
+3. physical plan: catalyst takes the logical pland generates one or more physical plans
+4. java byte code generation
