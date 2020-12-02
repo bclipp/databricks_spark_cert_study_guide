@@ -145,46 +145,43 @@ Spark SQL module, Documentation:
 
 Exercies:
 
-1. DataFrames:
-* DataFrame & Column; Columns and expressions, Transformations, Actions, Rows, join,selecting, renaming and manipulating columns, filtering, dropping, sorting, and aggregating rows, joining, reading, writing and partitioning DataFrames
-* Reader & Writer; Data Sources, DataFrameReader & Writer, Schemas, Performance, caching
+1. Columns
 
-2. Transformations:
-* Aggregation;Groupby, Grouped data methods, Aggregate functions, Math functions
-* Datetimes; Dates & Timestamps, Datetime patterns, Datetime functions,
-* Complex Types;String functions, Collection functions
-* Additional Functions; Non-aggregate functions, NaFunctions
-* User-Defined Functions; User-defined functions, Vectorized UDFs, Performance
+2. Rows
 
-3. Spark Optimization
-* Shuffles & Caching
-* Partitioning; Partitions vs cores, Default shuffle partitions, Repartition, Best practices, AQE, Lab
+3. Dataframes
 
-Exercises:
-1. Basics [SQL][SCALA][SCALA SQL]
+4. reading 
 
-2. importing and exporting data
-* Load CSV, Avro, parquet, Json
-* Schema inference and enforcement
-* Load Data from a JDBC source
-* Write data to 
-Csv
-Json
-Avro
-Parquet
-Json
-Jdbc destination
+5. Writing
 
-3. SELECT
-* Scala & SQL Basics
-* nested data (array, hash)
-* create nested data
-FIlter/Where
-Complex data types
-Structs
-Arrays
+6. Schemas
 
-4. Math and stats
+7. caching
+
+8. Partitioning and shuffle part
+
+9. Joining
+
+10. Broadcast join
+
+11.Aggregation;Groupby, Grouped data methods, Aggregate functions, Math functions
+
+12. Datetimes; Dates & Timestamps, Datetime patterns, Datetime functions,
+
+13. Complex Types;String functions, Collection functions
+
+14. Additional Functions; Non-aggregate functions, NaFunctions
+
+15. User-Defined Functions; User-defined functions, Vectorized UDFs, Performance
+
+16. AQE
+
+17. Adaptive pruning
+
+18. ANSI 100%
+
+19. Math and stats
 Sum
 Avg
 Min
@@ -194,9 +191,7 @@ Pivot
 Rollup
 Cube
 
-5. Joining
-
-6. grouping and summarizing
+20. grouping and summarizing
 Agg
 Groupby
 Sum
@@ -204,61 +199,11 @@ Avg
 Min
 Max
 
-7. inspecting and modifying data
-Unique
-ORDER BY
-split
-Sort
-Drop
-Cast
-Converting to spark types
-
-8. dates and times
+21.  dates and times
 Dates and timestamp
 math datestimes
 deltas
 
-9. mining text
+22. ining text
 Regular expressions
 like
-
-10. speeding things up
-
-11. UDF
-
-12. agg UDF
-
-13. working with missing data
-* Add some actions around missing data
-Nulls
-Drop
-Fill
-Replace
-
-14. Working with colums
-Add Columns
-Remove columns
-Rename columns
-Concatenating columns
-
-15. Koalas
-
-16. SPark app
-Spark app
-
-17. caching and partitions
-caching
-partitions
-Repartition and Coalesce
-
-18. Delta table basics
-
-
-
-
-
-
-
-
-
-
