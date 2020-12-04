@@ -47,6 +47,7 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 **Spark 3.0 feature highlights:**  
 * Adaptive query execution
     * https://databricks.com/session_na20/adaptive-query-execution-speeding-up-spark-sql-at-runtime  
+    * https://docs.databricks.com/spark/latest/spark-sql/aqe.html
     * https://www.youtube.com/watch?v=jlr8_RpAGuU
     * https://medium.com/agile-lab-engineering/spark-3-0-first-hands-on-approach-with-adaptive-query-execution-part-1-ff987f66b5c0
 * Dynamic partition pruning :
