@@ -72,7 +72,9 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
 
 
 **Theory:**
-* window functions : https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html
+* window functions :
+  * https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html
+  * https://www.youtube.com/watch?v=wH6RaEWuiDQ
 * caching https://towardsdatascience.com/best-practices-for-caching-in-spark-sql-b22fb0f02d34
 * repartition vs coalescse: https://www.youtube.com/watch?v=pP-ohMzyFc4&list=RDCMUCoVVyUViJ3mfaEKVjAJSnVA&index=24
 * tungsten: https://www.youtube.com/watch?v=mRf0GvNDlyc&list=RDCMUCoVVyUViJ3mfaEKVjAJSnVA&index=11
