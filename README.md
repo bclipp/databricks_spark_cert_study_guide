@@ -18,6 +18,11 @@ In addition, Sections I, II, and IV of Spark: The Definitive Guide and Chapters 
   * https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/SparkSession.html
   * https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/functions$.html
   * https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/Column.html
+  * http://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/DataFrameReader.html
+  * http://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/Dataset.html
+  * http://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/functions$.html
+  * http://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/DataFrameWriter.html
+  * 
 * python
   * https://spark.apache.org/docs/latest/api/python/index.html
   * https://spark.apache.org/docs/latest/api/python/pyspark.sql.html
