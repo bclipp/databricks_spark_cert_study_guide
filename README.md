@@ -134,6 +134,7 @@ None cert  Videos:
 * (parquet in depth) https://www.youtube.com/watch?v=_0Wpwj_gvzg
 * (troubleshooting spark)https://www.youtube.com/watch?v=s5p15QT0Zj8
 * (Out of Mem) https://www.youtube.com/watch?v=FdT5o7M35kU
+* (hashpartition vs range partitioning) https://www.youtube.com/watch?v=BvyOJuik8FA
 Coursera course(ignore ML content):
 https://www.coursera.org/learn/spark-sql
 
