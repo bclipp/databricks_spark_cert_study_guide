@@ -187,4 +187,14 @@ Spark SQL module, Documentation:
    * createOrReplaceTempView("my_table")
  
  3.
+ * DataFrameReader
+ * DataFrameWriter
+ * StructType
+ * ArrayType
+ * DoubleType
+ * IntegerType
+ * LongType
+ * StringType
+ * StructType
+ * StructField
    
