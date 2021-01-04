@@ -155,67 +155,36 @@ Spark SQL module, Documentation:
 * https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/functions$.html
 
 
-Exercies:
-
-1. Columns
-
-2. Rows
-
-3. Dataframes
-
-4. reading 
-
-5. Writing
-
-6. Schemas
-
-7. caching
-
-8. Partitioning and shuffle part
-
-9. Joining
-
-10. Broadcast join
-
-11.Aggregation;Groupby, Grouped data methods, Aggregate functions, Math functions
-
-12. Datetimes; Dates & Timestamps, Datetime patterns, Datetime functions,
-
-13. Complex Types;String functions, Collection functions
-
-14. Additional Functions; Non-aggregate functions, NaFunctions
-
-15. User-Defined Functions; User-defined functions, Vectorized UDFs, Performance
-
-16. AQE
-
-17. Adaptive pruning
-
-18. ANSI 100%
-
-19. Math and stats
-Sum
-Avg
-Min
-Max
-count
-Pivot
-Rollup
-Cube
-
-20. grouping and summarizing
-Agg
-Groupby
-Sum
-Avg
-Min
-Max
-
-21.  dates and times
-Dates and timestamp
-math datestimes
-deltas
-
-22. ining text
-Regular expressions
-like
+ API:
+ 
+ 1. 
+   * SparkSession.sql 
+   * SparkSession.table
+   * DataFrame: 
+       * select
+       * filter
+       * orderBy
+       * show
+       * count
+       * take
+       * printSchema
+       * schema
+       
+       
+ 2. 
+   * createOrReplaceTempView
+   * spark.catalog.refreshTable
+   * createTempView
+   * schools.createOrReplaceGlobalTempView
+   * spark.sql("CREATE VIEW permanent_view AS SELECT * FROM my_table")
+   * spark.catalog.dropTempView(
+   * spark.catalog.listDatabases()
+   * spark.catalog.dropGlobalTempView
+   * write.saveAsTable
+   * write.option('path', "s3://...").saveAsTable("my_table")
+   * spark.catalog.setCurrentDatabase
+   * spark.catalog.listColumns
+   * createOrReplaceTempView("my_table")
+ 
+ 3.
+   
